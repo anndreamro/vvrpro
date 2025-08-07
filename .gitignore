@@ -1,0 +1,26 @@
+ECHO est� activado.
+# Archivos del entorno local
+*.log
+*.env
+*.zip
+*.tar.gz
+*.rar
+
+# Carpetas de dependencias
+/node_modules/
+/vendor/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos temporales
+*.bak
+*.tmp
+
+# XAMPP
+xampp-control.ini
